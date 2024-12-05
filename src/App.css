@@ -40,3 +40,22 @@
 .read-the-docs {
   color: #888;
 }
+
+.success-message{
+  color: green;
+}
+
+.error-message{
+  color: red;
+}
+
+.signUp{
+  border: black;
+  border-radius: 5px;
+  background-color: rgba(88, 78, 65, 0.404);
+  padding: 2vh;
+}
+
+.padding{
+  margin-bottom: 1vh;
+}
